@@ -24,12 +24,16 @@
     /* color: var(--gradient-text); */
 }
 
-.developer p {
+.deve {
     font-family: var(--font-family);
-    color: #fff;
-    font-size: 22px;
+    color: gray;
+    font-size: 16px;
     font-weight: 400;
     padding: 2rem;
+}
+
+.deve p {
+    text-align: center;
 }
 
 @media screen and (max-width: 1050px) {
