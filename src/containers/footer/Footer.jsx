@@ -14,6 +14,9 @@ const Footer = () => {
                     <p className="gradient__text">"A simple hello can lead to a million things!"</p>
                 </div>
             </div>
+            <div>
+                <p>Developed by Prankishore Talukdar</p>
+            </div>
         </div>
     )
 }
