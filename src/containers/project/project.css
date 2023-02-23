@@ -38,6 +38,11 @@
     height: 100%;
 }
 
+.portfolio__projects-container_project-content p {
+    color: #fff;
+    font-family: var(--font-family);
+}
+
 .data {
     font-family: var(--font-family);
     font-size: 13px;
