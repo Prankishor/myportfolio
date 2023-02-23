@@ -50,7 +50,22 @@
     border-radius: 5px;
 }
 
-.contactbtn:hover {
+.contactbtn {
+    opacity: 100%;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background: #FF4820;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.portfolio__navbar-contact a:hover {
     /* box-shadow: 0 0 5px #fff; */
     opacity: 80%;
 }
