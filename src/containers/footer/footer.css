@@ -24,6 +24,14 @@
     /* color: var(--gradient-text); */
 }
 
+.developer p {
+    font-family: var(--font-family);
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+    padding: 2rem;
+}
+
 @media screen and (max-width: 1050px) {
     .portfolio__footer-container {
         flex-direction: column;
