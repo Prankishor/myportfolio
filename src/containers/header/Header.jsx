@@ -40,13 +40,13 @@ const Header = () => {
                 </div>
                 <div className="socials">
                     <div className="linkedin">
-                        <SocialIcon url="https://www.linkedin.com/in/prankishor-talukdar-769084190" bgColor="#9d95b8" />
+                        <SocialIcon target="_blank" url="https://www.linkedin.com/in/prankishor-talukdar-769084190" bgColor="#9d95b8" />
                     </div>
                     <div className="instagram">
-                        <SocialIcon url="https://www.instagram.com/prankishor_/" bgColor="#9d95b8" />
+                        <SocialIcon target="_blank" url="https://www.instagram.com/prankishor_/" bgColor="#9d95b8" />
                     </div>
                     <div className="twitter">
-                        <SocialIcon url="https://twitter.com/PrankishorT" bgColor="#9d95b8" />
+                        <SocialIcon target="_blank" url="https://twitter.com/PrankishorT" bgColor="#9d95b8" />
                     </div>
                 </div>
             </div>

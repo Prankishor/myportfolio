@@ -6,15 +6,15 @@
     flex-direction: column;
     background: var(--color-footer);
     transition: .4s ease-in-out;
+    border: solid;
+    /* border: var(--color-bg); */
+
+    border-color: var(--color-bg);
 }
 
 .portfolio__projects-container_project:hover {
     opacity: 100%;
-    border-style: groove;
-    border-color: #fff;
-    border-width: 2px;
-    transition: .4s ease-in-out;
-    box-shadow: 0 0 7px #fff;
+    border-color: gray;
 }
 
 .portfolio__projects-container_project-image {
