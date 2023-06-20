@@ -3,6 +3,7 @@ import project2 from '../../assets/facial.webp';
 import project3 from '../../assets/iot.webp';
 import project4 from '../../assets/frontend.jpg';
 import project5 from '../../assets/react.png';
+import hnm from '../../assets/HnM.JPG';
 
 export {
     project1,
@@ -10,4 +11,5 @@ export {
     project3,
     project4,
     project5,
+    hnm,
 };

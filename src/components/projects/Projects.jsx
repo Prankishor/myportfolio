@@ -1,6 +1,6 @@
 import React from "react";
 import './projects.css';
-import { project1, project2, project3 } from './imports';
+import { project1, project2, project3, hnm } from './imports';
 import Project from '../../containers/project/Project';
 
 const Projects = () => {
@@ -11,10 +11,10 @@ const Projects = () => {
             </div>
             <div className="portfolio__projects-container">
                 <div className="portfolio__projects-container_groupA">
-                    <Project imgUrl={project1} date="June 2021" text="News App"
-                        data="NewsApp is an android application that fetches top 100 daily Indian news from an API called NewsAPI.
-                        Technologies being used are: Android Studio, Kotlin, NewsAPI. Concepts leart during L&D: Retrofit, Glide, Android Fundamentals (Architectural Components, Data Binding)"
-                        gitlink="https://github.com/Prankishor/NewsAPP" />
+                    <Project imgUrl={hnm} date="June 2023" text="HnMCart"
+                        data="HnMCart is a dummy shopping website which fetches data (items) from Fakeapi store and has feature like adding items to cart and cost calculation. It was a project based learning initiative to get my hands on React RTK
+                        Technologies being used are: HTML, CSS, Javascript, Axios, ReactJS and Redux Toolkit"
+                        gitlink="https://prankishor.github.io/HnMCart/" />
                 </div>
                 <div className="portfolio__projects-container_groupB">
                     <Project imgUrl={project2} date="Mar 2019" text="Speech Embedded Facial Recognition System"

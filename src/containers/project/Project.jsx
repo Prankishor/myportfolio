@@ -13,7 +13,7 @@ const Project = ({ imgUrl, date, text, data, gitlink }) => {
                     <h3>{text}</h3>
                     <p className="data">{data}</p>
                 </div>
-                <a href={gitlink} target="blank" className="sourceCode">Source Code</a>
+                <a href={gitlink} target="blank" className="sourceCode">Source Code / Live </a>
             </div>
         </div>
     )
