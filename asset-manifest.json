@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.9203d854.css",
-    "main.js": "/myportfolio/static/js/main.e8dbd3bb.js",
+    "main.js": "/myportfolio/static/js/main.e0f372b3.js",
     "static/media/iot.webp": "/myportfolio/static/media/iot.652a3c20ad13ab696ce9.webp",
+    "static/media/HnM.JPG": "/myportfolio/static/media/HnM.858a602146c6cb4e9ae0.JPG",
     "static/media/frontend.jpg": "/myportfolio/static/media/frontend.02dd6f9e285135ee723f.jpg",
     "static/media/profilee.jpg": "/myportfolio/static/media/profilee.15a99481517c3dab5393.jpg",
     "static/media/android.jpg": "/myportfolio/static/media/android.e421d58564c9a4492683.jpg",
@@ -10,10 +11,10 @@
     "static/media/logo.svg": "/myportfolio/static/media/logo.944fcf2004a575819defb5ae02a56f63.svg",
     "index.html": "/myportfolio/index.html",
     "main.9203d854.css.map": "/myportfolio/static/css/main.9203d854.css.map",
-    "main.e8dbd3bb.js.map": "/myportfolio/static/js/main.e8dbd3bb.js.map"
+    "main.e0f372b3.js.map": "/myportfolio/static/js/main.e0f372b3.js.map"
   },
   "entrypoints": [
     "static/css/main.9203d854.css",
-    "static/js/main.e8dbd3bb.js"
+    "static/js/main.e0f372b3.js"
   ]
 }
