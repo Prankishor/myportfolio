@@ -1,6 +1,7 @@
 import React from "react";
 import './header.css';
-import profilee from '../../assets/profilee.jpg';
+//import profilee from '../../assets/profilee.jpg';
+import benz from '../../assets/benz.png'
 import Typical from "react-typical";
 import { SocialIcon } from "react-social-icons";
 
@@ -29,8 +30,10 @@ const Header = () => {
                     </span>
                 </div>
                 <div className="subtext">
-                    <span>Currently working for Daimler Trucks Innovation Center India,
-                        the one who keeps the world moving!
+                    <span>Currently a Software Engineer @ Daimler Truck Innovation Center India
+                    </span>
+                    <br></br>
+                    <span>Ex- Mercedes Benz
                     </span>
                 </div>
                 <div className="resume">
@@ -52,7 +55,7 @@ const Header = () => {
             </div>
             <div className="circle">
                 <div className="portfolio__header-image">
-                    <img src={profilee} alt="profile" />
+                    <img src={benz} alt="profile" />
                 </div>
             </div>
 

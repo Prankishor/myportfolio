@@ -20,7 +20,7 @@ const Projects = () => {
                     <Project imgUrl={fitme} date="June 2023" text="FitMe"
                         data="Fitme is a fully responsive web app, aims to provide a library of workouts and nutrition with features like Pagination, Search,
                         Add to Cart and much more. The application is hosted live on Netlify. Technology Stack: Javascript, ReactJS, Redux Toolkit, RTK Query, React Routing, Stripe Integration"
-                        gitlink="https://github.com/Prankishor/Home-Automation" />
+                        gitlink="https://master--flourishing-kashata-a3ab86.netlify.app/" />
                     <Project imgUrl={project2} date="Mar 2019" text="Speech Embedded Facial Recognition System"
                         data="It is a facial recognition system that has a speech module attached. The system is attempted to be made 
                         portable in order to help people with no sight. Its main goal is to make people with no sight independent and help 
