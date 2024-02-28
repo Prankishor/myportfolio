@@ -10,25 +10,28 @@ const Skills = () => {
             <div className="portfolio__skills-sections">
 
                 <div className="portfolio_skills-sections_languages skill_container">
-                    <h3 className="gradient__text">Languages</h3>
+                    <h3 className="gradient__text">Frontend</h3>
                     <div className="items">
                         <ul>
-                            <li>C++</li>
-                            <li>Java</li>
-                            <li>JavaScript</li>
-                            <li>Kotlin</li>
+                            <li>HTML5</li>
+                            <li>CSS3</li>
+                            <li>Javascrit</li>
+                            <li>React.js</li>
+                            <li>Redux Toolkit</li>
+                            <li>Tailwind CSS</li>
                         </ul>
                     </div>
                 </div>
                 <div className="portfolio_skills-sections_frameworks skill_container">
-                    <h3 className="gradient__text">Frameworks</h3>
+                    <h3 className="gradient__text">Backend</h3>
                     <div className="items">
                         <ul>
-                            <li>React JS</li>
-                            <li>Docker</li>
-                            <li>Kubernetes</li>
-                            <li>Springboot</li>
-                            <li>Joget DX</li>
+                            <li>Java</li>
+                            <li>SpringBoot</li>
+                            <li>Hibernate</li>
+                            <li>MVC</li>
+                            <li>Spring Security</li>
+                            <li>JWT</li>
                         </ul>
                     </div>
                 </div>
@@ -45,10 +48,11 @@ const Skills = () => {
                     <h3 className="gradient__text">Others</h3>
                     <div className="items">
                         <ul>
-                            <li>Android Studio</li>
+                            <li>Docker</li>
                             <li>Apache Kafka</li>
-                            <li>IOT</li>
-                            <li>Open CV</li>
+                            <li>Github</li>
+                            <li>J2EE</li>
+                            <li>Unit Testing</li>
                         </ul>
                     </div>
                 </div>

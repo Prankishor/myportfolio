@@ -16,11 +16,11 @@ const Header = () => {
                                 steps={[
                                     "Software Development Engineer",
                                     1000,
-                                    "Front-End Developer",
+                                    "Frontend Developer",
                                     1000,
-                                    "BPM Developer",
+                                    "Backend Developer",
                                     1000,
-                                    "Software Consultant",
+                                    "Java Fullstack Developer",
                                     1000,
                                 ]}
                                 loop={Infinity}

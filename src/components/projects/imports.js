@@ -4,6 +4,8 @@ import project3 from '../../assets/iot.webp';
 import project4 from '../../assets/frontend.jpg';
 import project5 from '../../assets/react.png';
 import hnm from '../../assets/HnM.JPG';
+import fitme from '../../assets/fitme.JPG';
+import minigram from '../../assets/minigram.JPG';
 
 export {
     project1,
@@ -12,4 +14,6 @@ export {
     project4,
     project5,
     hnm,
+    fitme,
+    minigram
 };

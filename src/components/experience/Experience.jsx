@@ -6,14 +6,14 @@ const jobsData = [
     {
         title: 'Daimler Truck Innovation Center India ',
         year: 'Dec 2021 - Present',
-        designation: 'Software Consultant',
-        text: 'Responsible for developing low/pro code solutions in order to simplify the management of business processes for Daimler Truck: Detroit and Europe. Also managing and maintaining the hosting environment for Joget with Docker containers and Kubernetes.',
+        designation: 'Software Engineer',
+        text: 'Responsible for building modular and customizable UI with React.js for Dash Layout Order Management and creating REST APIs using MVC pattern and Hibernate (ORM) for the same with Spring Boot. Lead Developer in Digital Transformation Team, building applications from ground-up for counterparts from Europe and Detroit. Responsible for requirement gathering, workflow design, development and testing.',
     },
     {
         title: 'Mercedes-Benz Research & Development Center India',
         year: 'Aug 2021 - Dec 2021',
         designation: 'Graduate Engineer Trainee',
-        text: 'Implemented data streaming using Apache Kafka to replicate data from source database to target database with latency as low as 2ms and developed API’s for Producer and Consumer for Kafka with SpringBoot.',
+        text: 'Developed POC’s on Data Replication using Apache Kafka to replicate data from IBM DB2 to PostgreSQL with latency as low as 2ms. Developed APIs for Producers and Consumers using SpringBoot.',
     },
     {
         title: 'Cognizant ',
